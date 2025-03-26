@@ -1097,7 +1097,7 @@ document.addEventListener('DOMContentLoaded', () => {
     // Function to update squad based on selected team
     async function updateSquadForTeam(teamCode) {
         try {
-            const response = await fetch(`http://localhost:8080/api/players/team/${teamCode}`);
+            const response = await fetch(`https://ipl-api-i1el.onrender.com/api/players/team/${teamCode}`);
             if (!response.ok) {
                 throw new Error('Failed to fetch team squad');
             }
