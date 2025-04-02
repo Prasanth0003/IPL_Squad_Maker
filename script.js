@@ -1299,8 +1299,7 @@ document.addEventListener('DOMContentLoaded', () => {
             buttonsContainer.style.display = originalDisplay;
         });
     }
-<<<<<<< HEAD
+
   });
-=======
-  });
->>>>>>> e301d7e95070605577c10c09c87df2c87d81a0e6
+
+
