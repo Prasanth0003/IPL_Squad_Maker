@@ -1,6 +1,6 @@
-﻿# IPL Team Maker : https://prasanth0003.github.io/IPL_Squad_Maker.github.io/
+﻿# IPL Team Maker
 
-A web-based application that allows users to create and manage their dream IPL (Indian Premier League) team. This interactive tool enables cricket enthusiasts to select players from different teams and create their optimal playing XI while adhering to IPL rules and regulations.
+A web-based application that allows users to create and manage their dream IPL (Indian Premier League) team. This interactive tool enables cricket enthusiasts to select players from different teams and create their optimal playing XI while adhering to IPL rules and regulations.[Website Link](https://prasanth0003.github.io/IPL_Squad_Maker.github.io/)
 
 ## Features
 
